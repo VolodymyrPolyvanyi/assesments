@@ -1,0 +1,18 @@
+.first-div span {
+    color: tan;
+}
+.second-div > span {
+    color: tan;
+}
+.third-span ~ p {
+    color: tan;
+}
+.fourth-span + p {
+    color: tan;
+}
+.fifth-div + p {
+    color: tan;
+}
+.sixth-div span {
+    color: tan;
+}
