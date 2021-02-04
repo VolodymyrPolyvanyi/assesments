@@ -1,12 +1,16 @@
+/* combinator " " */
 .first-div span {
     color: tan;
 }
+/* combinator ">" */
 .second-div > span {
     color: tan;
 }
+/* combinator "~" */
 .third-span ~ p {
     color: tan;
 }
+/* combinator "+" */
 .fourth-span + p {
     color: tan;
 }
