@@ -10,4 +10,8 @@ This repository has been created for my FE learning. It will include next themes
 
 Each theme will consist of few tasks from [MDN][1]. Also [MDN][1] will be the main source of learning, but not alone.
 
+# codility
+Codility tab - is exersices from [codility][2]. Name of file is name of exersice. All tasks submited in codility service.
+
 [1]: https://developer.mozilla.org/en-US/
+[2]: https://app.codility.com/programmers/lessons/1-iterations/
