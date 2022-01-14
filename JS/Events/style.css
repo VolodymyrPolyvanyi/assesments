@@ -1,0 +1,26 @@
+.firstSquare {
+    position: absolute;
+    background-color: rgb(255, 94, 0);
+    width: 200px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+}
+
+.secondSquare {
+    position: absolute;
+    background-color: rgb(233, 210, 80);
+    width: 150px;
+    height: 150px;
+    top: 12%;
+    left: 12%;
+}
+
+.thirdSquare {
+    position: absolute;
+    background-color: rgb(65, 133, 58);
+    width: 100px;
+    height: 100px;
+    top: 17%;
+    left: 17%;
+}
